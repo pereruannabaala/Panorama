@@ -21,3 +21,15 @@ Ensure you have the following libraries installed before running the script:
 4. Image Stitching
 - OpenCV's Stitcher module is used to combine multiple images into a panorama.
 - If successful, the stitched image is displayed.
+## Expected Output
+- The script will first display the individual images.
+- If stitching is successful, the final panorama image will be shown.
+## Troubleshooting
+- Ensure all images are in the correct directory (boat/).
+- If stitching fails, check that the images overlap sufficiently.
+- Ensure OpenCV is correctly installed and supports Stitcher_create().
+## License
+- This project is open-source and available for personal and educational use.
+## Author
+Pereruan Nabaala
+pereruannabaala@gmail.com
