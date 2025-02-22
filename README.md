@@ -31,5 +31,5 @@ Ensure you have the following libraries installed before running the script:
 ## License
 - This project is open-source and available for personal and educational use.
 ## Author
-Pereruan Nabaala
-pereruannabaala@gmail.com
+- Pereruan Nabaala
+- pereruannabaala@gmail.com
